@@ -5,12 +5,12 @@ Sistemi kullanmak için ilk olarak bu repo'yu klonlayın:<br>
 Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 `cd Yuz-Tanima-Sistemi && pip3 install -r gereksinimler.txt`<br>
 <br>
-Gereken kütüphaneleri kurduktan sonra:<br>
+Tebrikler, artık yazılımları çalıştırabilirsiniz.<br>
 <br>
-  Personel algılama:<br>
-  <mark>--> Personellerin vesikalık fotoğrafını çekin<mark><br>
-  <mark>--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın</mark><br>
-  <mark>--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın</mark><br>
+Personel algılama nasıl yapılır?<br>
+`--> Personellerin vesikalık fotoğrafını çekin`<br>
+`--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın`<br>
+`--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın`><br>
 <br>
   Örnek olarak X kişisini algılayalım:<br>
   <mark>--> X kişisinin vesikalık fotoğrafını çekin<mark><br>
