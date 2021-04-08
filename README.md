@@ -6,9 +6,9 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun<br>
 `cd Yuz-Tanima-Sistemi && pip3 install -r gereksinimler.txt`<br>
 <br>
 ## Personel algılama nasıl yapılır?<br>
-`--> Personellerin vesikalık fotoğrafını çekin`<br>
-`--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın`<br>
-`--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın`<br>
+1 - Personellerin vesikalık fotoğrafını çekin<br>
+2 - Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın<br>
+3 - Fotoğrafları 'PersonelAlgilama' klasörünün içine atın<br>
 <br>
 Örnek olarak X kişisini algılayalım:<br>
 `--> X kişisinin vesikalık fotoğrafını çekin`<br>
