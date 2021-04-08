@@ -19,8 +19,9 @@ Ardından yazılımı çalıştırın<br>
 `python3 KameradanPersonelAlgilama.py`<br>
 <br>
 ## Yüz karşılaştırma nasıl yapılır?<br>
-Karşılaştırmak istediğiniz fotoğrafları 'fotograf1.jpg' ve 'fotograf2.jpg' olarak yeniden adlandırın, ve 'YuzKarsilastirmaKlasoru' isimli klasöre aktarın.<br>
-Ardından yüz karşılaştırma yazılımını çalıştırın<br>
+1 - Karşılaştırmak istediğiniz fotoğrafları 'fotograf1.jpg' ve 'fotograf2.jpg' olarak yeniden adlandırın<br>
+2 - 'YuzKarsilastirmaKlasoru' isimli klasörün içine atın.<br>
+3 - Ardından yüz karşılaştırma yazılımını çalıştırın<br>
 `python3 YuzKarsilastirma.py`
 <br>
 <br>
