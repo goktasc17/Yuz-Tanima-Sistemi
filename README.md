@@ -19,4 +19,9 @@ Ardından yazılımı çalıştırın<br>
 `python3 KameradanPersonelAlgilama.py`<br>
 <br>
 ## Yüz karşılaştırma nasıl yapılır?
-<br><br><br><br>Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
+
+<br>
+<br>
+<br>
+<br>
+Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
