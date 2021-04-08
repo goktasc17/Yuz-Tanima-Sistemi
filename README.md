@@ -7,7 +7,7 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 <br>
 Gereken kütüphaneleri kurduktan sonra:<br>
 --> 'PersonelYuzleri' klasörünü tanınması istediğiniz personellerinizin fotoğraflarını kullanarak düzenleyin<br>
---> Örnek olarak X kişisinin tanımlamak istiyorsak onun bir veskilaık fotoğrafını çekin, ardından fotoğrafın ismini X.jpg olarak değiştirin, ardından bu fotoğrafı 'PersonelYuzleri' klasörüne aktarın.<br>
+--> Örnek olarak X kişisinin tanımlamak istiyorsak onun bir veskalık fotoğrafını çekin,<br>ardından fotoğrafın ismini X.jpg olarak değiştirin,<br>ardından bu fotoğrafı 'PersonelYuzleri' klasörüne aktarın.<br>
 <br>
 Şimdi yazılımı çalıştırabilirsiniz:
 `python3 KameradanPersonelAlgilama.py`
