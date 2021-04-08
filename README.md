@@ -6,15 +6,16 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 `cd Yuz-Tanima-Sistemi && pip3 install -r gereksinimler.txt`<br>
 <br>
 Gereken kütüphaneleri kurduktan sonra:<br>
-Personel algılama:<br>
---> Personellerin vesikalık fotoğrafını çekin<br>
---> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın<br>
---> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın<br>
 <br>
-Örnek olarak X kişisini algılayalım:<br>
---> X kişisinin vesikalık fotoğrafını çekin<br>
---> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.<br>
---> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın<br>
+  Personel algılama:<br>
+  --> Personellerin vesikalık fotoğrafını çekin<br>
+  --> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın<br>
+  --> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın<br>
 <br>
-Şimdi yazılımı çalıştırabilirsiniz:
+  Örnek olarak X kişisini algılayalım:<br>
+  --> X kişisinin vesikalık fotoğrafını çekin<br>
+  --> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.<br>
+  --> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın<br>
+<br>
+Şimdi yazılımı çalıştırabilirsiniz:<br>
 `python3 KameradanPersonelAlgilama.py`
