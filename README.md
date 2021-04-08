@@ -21,8 +21,5 @@ Ardından yazılımı çalıştırın<br>
 ## Yüz karşılaştırma nasıl yapılır?
 Yüz Karşılaştırma yazılımını çalıştırın<br>
 `python3 YuzKarsilastirma.py`
-<br>
-<br>
-<br>
-<br>
+---
 #### Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
