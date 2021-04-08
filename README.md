@@ -19,7 +19,8 @@ Ardından yazılımı çalıştırın<br>
 `python3 KameradanPersonelAlgilama.py`<br>
 <br>
 ## Yüz karşılaştırma nasıl yapılır?
-
+Yüz Karşılaştırma yazılımını çalıştırın
+`python3 YuzKarsilastirma.py`
 <br>
 <br>
 <br>
