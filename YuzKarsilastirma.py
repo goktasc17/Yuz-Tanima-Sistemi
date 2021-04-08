@@ -1,12 +1,9 @@
 import cv2
 import face_recognition
 
-foto1path = input("Fotografiniz cihazinizda nerede bulunuyor: ")
-foto2path = input("Karsilastirmak istediginiz fotograf cihazinizda nerede bulunuyor: ")
-
-fotograf1 = face_recognition.load_image_file(foto1path)
+fotograf1 = face_recognition.load_image_file('YuzKarsilastirmaKlasoru/fotograf1.jpg')
 fotograf1 = cv2.cvtColor(fotograf1, cv2.COLOR_BGR2RGB)
-fotograf2 = face_recognition.load_image_file(foto2path)
+fotograf2 = face_recognition.load_image_file('YuzKarsilastirmaKlasoru/fotograf2.jpg')
 fotograf2 = cv2.cvtColor(fotograf2, cv2.COLOR_BGR2RGB)
 
 YuzLokasyonu = face_recognition.face_locations(fotograf1)[0]
