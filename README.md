@@ -3,7 +3,7 @@ Sistemi kullanmak için ilk olarak bu repo'yu klonlayın<br>
 `git clone https://github.com/SuleymanKaya1/Yuz-Tanima-Sistemi.git`<br>
 <br>
 Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun<br>
-`cd Yuz-Tanima-Sistemi && pip3 install -r gereksinimler.txt`<br>
+`cd Yuz-Tanima-Sistemi && sudo apt install cmake g++ && pip3 install -r gereksinimler.txt`<br>
 <br>
 ## Personel algılama nasıl yapılır?<br>
 1 - Personellerin vesikalık fotoğrafını çekin<br>
