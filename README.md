@@ -7,14 +7,14 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 <br>
 Gereken kütüphaneleri kurduktan sonra:<br>
 Personel algılama:<br>
---> Personellerin vesikalık fotoğrafını çekin
---> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın
---> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın
+--> Personellerin vesikalık fotoğrafını çekin<br>
+--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın<br>
+--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın<br>
 <br>
 Örnek olarak X kişisini algılayalım:<br>
---> X kişisinin vesikalık fotoğrafını çekin
---> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.
---> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın
+--> X kişisinin vesikalık fotoğrafını çekin<br>
+--> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.<br>
+--> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın<br>
 <br>
 Şimdi yazılımı çalıştırabilirsiniz:
 `python3 KameradanPersonelAlgilama.py`
