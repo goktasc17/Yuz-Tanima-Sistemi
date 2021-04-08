@@ -7,7 +7,7 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun<br>
 <br>
 ## Personel algılama nasıl yapılır?<br>
 1 - Personellerin vesikalık fotoğrafını çekin<br>
-2 - Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın<br>
+2 - Çektiğiniz fotoğrafları kişilerin ismiyle yeniden adlandırın<br>
 3 - Fotoğrafları 'PersonelAlgilama' klasörünün içine atın<br>
 <br>
 Örnek olarak X kişisini algılayalım:<br>
