@@ -19,3 +19,4 @@ Gereken kütüphaneleri kurduktan sonra:<br>
 <br>
 Şimdi yazılımı çalıştırabilirsiniz:<br>
 `python3 KameradanPersonelAlgilama.py`
+<br><br><br><br>Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
