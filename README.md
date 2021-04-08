@@ -4,7 +4,6 @@ Sistemi kullanmak için ilk olarak bu repo'yu klonlayın:<br>
 <br>
 Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 `cd Yuz-Tanima-Sistemi && pip3 install -r gereksinimler.txt`<br>
-<br>
 Tebrikler, artık yazılımları çalıştırabilirsiniz.<br>
 <br>
 Personel algılama nasıl yapılır?<br>
@@ -12,10 +11,10 @@ Personel algılama nasıl yapılır?<br>
 `--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın`<br>
 `--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın`<br>
 <br>
-  Örnek olarak X kişisini algılayalım:<br>
-  <mark>--> X kişisinin vesikalık fotoğrafını çekin<mark><br>
-  <mark>--> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.</mark><br>
-  <mark>--> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın</mark><br>
+Örnek olarak X kişisini algılayalım:<br>
+`--> X kişisinin vesikalık fotoğrafını çekin`<br>
+`--> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.`<br>
+`--> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın`<br>
 <br>
 Şimdi yazılımı çalıştırabilirsiniz:<br>
 `python3 KameradanPersonelAlgilama.py`
