@@ -18,6 +18,8 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun<br>
 Ardından yazılımı çalıştırın<br>
 `python3 KameradanPersonelAlgilama.py`<br>
 <br>
+Yazılımı çalıştırdığınız hangi personeli saat kaçta algıladığını Kayıtlar.csv'ye kaydedecektir. Bu sayede personellerin kurumunuza giriş-çıkış saatlerinin kayıtlarını tutabilirsiniz.
+<br>
 ## Yüz karşılaştırma nasıl yapılır?<br>
 1 - Karşılaştırmak istediğiniz fotoğrafları 'fotograf1.jpg' ve 'fotograf2.jpg' olarak yeniden adlandırın<br>
 2 - 'YuzKarsilastirmaKlasoru' isimli klasörün içine atın.<br>
