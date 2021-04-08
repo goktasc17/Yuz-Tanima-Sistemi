@@ -10,7 +10,7 @@ Tebrikler, artık yazılımları çalıştırabilirsiniz.<br>
 Personel algılama nasıl yapılır?<br>
 `--> Personellerin vesikalık fotoğrafını çekin`<br>
 `--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın`<br>
-`--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın`><br>
+`--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın`<br>
 <br>
   Örnek olarak X kişisini algılayalım:<br>
   <mark>--> X kişisinin vesikalık fotoğrafını çekin<mark><br>
