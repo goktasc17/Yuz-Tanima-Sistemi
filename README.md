@@ -16,6 +16,6 @@ Personel algılama nasıl yapılır?<br>
 `--> Çektiğiniz fotoğrafı X.jpg olarak yeniden adlandırın.`<br>
 `--> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın`<br>
 <br>
-Şimdi yazılımı çalıştırabilirsiniz:<br>
+Şimdi kameradan personel tanıma yazılımını çalıştırabilirsiniz:<br>
 `python3 KameradanPersonelAlgilama.py`
 <br><br><br><br>Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
