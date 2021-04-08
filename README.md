@@ -17,5 +17,7 @@ Personel algılama nasıl yapılır?<br>
 `--> Bu fotoğrafı 'PersonelAlgilama' isimli klasöre aktarın`<br>
 <br>
 Şimdi kameradan personel tanıma yazılımını çalıştırabilirsiniz:<br>
-`python3 KameradanPersonelAlgilama.py`
+`python3 KameradanPersonelAlgilama.py`<br>
+---
+Yüz karşılaştırma nasıl yapılır?
 <br><br><br><br>Ubuntu 20.04.02'de test edilmiştir, hatasız çalışmaktadır.
