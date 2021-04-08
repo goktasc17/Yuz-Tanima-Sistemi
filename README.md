@@ -8,7 +8,7 @@ Ardından klasöre geçiş yapın ve gerekli kütüphaneleri kurun:<br>
 Gereken kütüphaneleri kurduktan sonra:<br>
 <br>
   Personel algılama:<br>
-  ==--> Personellerin vesikalık fotoğrafını çekin==<br>
+  <mark>--> Personellerin vesikalık fotoğrafını çekin<mark><br>
   <mark>--> Çektiğiniz fotoğrafları kişilerin ismiyle adlandırın</mark><br>
   <mark>--> Fotoğrafları 'PersonelAlgilama' klasörünün içine atın</mark><br>
 <br>
